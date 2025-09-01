@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-## Purdue Football Home Games
+### Purdue Football Home Games
 
 1. **vs. Ball State**
 2. **vs. Southern Illinois**
